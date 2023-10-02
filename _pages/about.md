@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Stanford University advised by (Marco Pavone)[https://web.stanford.edu/~pavone/] in the (Autonomous Systems Lab)[https://stanfordasl.github.io/] and (Silvio Savarese)[https://profiles.stanford.edu/silvio-savarese] in the (Stanford Vision and Learning Lab)[https://svl.stanford.edu/]. I completed my B.S. in Electrical Engineering and Computer Science at MIT. 
+I am a PhD student at Stanford University advised by [Marco Pavone](https://web.stanford.edu/~pavone/) in the [Autonomous Systems Lab](https://stanfordasl.github.io/) and [Silvio Savarese](https://profiles.stanford.edu/silvio-savarese) in the [Stanford Vision and Learning Lab](https://svl.stanford.edu/). I completed my B.S. in Electrical Engineering and Computer Science at MIT. 
 
 I develop methods for rigorously quantifying uncertainty to improve the safety and reliability of autonomous systems.  I am particularly interested in working on autonomous systems that can reason about uncertainty in unstructured real‑world environments, where the systems are complex and may be composed of classical algorithms, specialized learning‑based components, and general‑purpose foundation models. Topics that I'm currently interested in include machine learning, computer vision, robotics, uncertainty quantification and calibration, distribution shift detection and mitigation, and foundation models. 
 
