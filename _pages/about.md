@@ -12,7 +12,7 @@ I am a PhD student at Stanford University advised by [Marco Pavone](https://web.
 
 I develop methods for rigorously quantifying uncertainty to improve the safety and reliability of autonomous systems.  I am particularly interested in working on autonomous systems that can reason about uncertainty in unstructured real‑world environments, where the systems are complex and may be composed of classical algorithms, specialized learning‑based components, and general‑purpose foundation models. Topics that I'm currently interested in include machine learning, computer vision, robotics, uncertainty quantification and calibration, distribution shift detection and mitigation, and foundation models. 
 
-Contact: rsluo at stanford dot edu
+Contact: rsluo at stanford dot edu<br>
 <a href="files/rachel_luo_cv.pdf" target="_blank">CV</a> (September 2023)
 
 Preprints
